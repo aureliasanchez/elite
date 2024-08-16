@@ -1,6 +1,6 @@
 import React from 'react';
 
-const HomeTwoSingleAbout = ({ icon, title, spacing}) => {
+const HomeTwoSingleAbout = ({ icon, title, spacing, description}) => {
     return (
         <>
             <div className="col-xl-6 col-lg-6 col-md-6">
@@ -10,7 +10,7 @@ const HomeTwoSingleAbout = ({ icon, title, spacing}) => {
                     </div>
                     <div className="feature-small-content">
                         <h3>{title}</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                        <p>{description}</p>
                     </div>
                 </div>
             </div>

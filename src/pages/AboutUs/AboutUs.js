@@ -13,7 +13,7 @@ const AboutUs = () => {
    return (
       <>
          <HomeHeader/>
-         <CommonPageHeader title="About Us" subtitle="About" />
+         <CommonPageHeader title="Sobre Nosotros" subtitle="Conócenos" />
          <AboutArea/>
          <AboutCounter/>
          <AboutAppoinment/>

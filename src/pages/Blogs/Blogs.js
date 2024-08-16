@@ -8,7 +8,7 @@ const Blogs = () => {
    return (
       <>
          <HomeHeader/>
-         <CommonPageHeader title="Blog Standard" subtitle="Blog" />
+         <CommonPageHeader title="Blog" subtitle="Blog" />
          <BlogsArea/>
          <Footer/>
       </>

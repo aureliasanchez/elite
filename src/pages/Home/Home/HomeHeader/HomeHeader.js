@@ -16,7 +16,7 @@ const HomeHeader = () => {
                   <div className="row d-flex align-items-center">
                      <div className="col-xl-6 offset-xl-1 col-lg-6 offset-lg-1 col-md-7 offset-md-1">
                         <div className="header-info">
-                           <span><i className="fas fa-phone"></i> +1 800 833 9780</span>
+                           <span><i className="fas fa-phone"></i> +52 771 747 7611</span>
                         </div>
                      </div>
                      <div className="col-xl-5 col-lg-5 col-md-4">
@@ -32,16 +32,14 @@ const HomeHeader = () => {
                <div className="container menu_wrapper">
                   <div className="row align-items-center">
                      <div className="col-xl-3 col-lg-3 col-md-6 col-6 d-flex align-items-center">
-                        <div className="logo logo-circle pos-rel">
-                           <Link to="/"><img src="img/logo/logo.png" alt="" /></Link>
-                        </div>
+                           <Link to="/"><img src="img/logo/logo.jpeg" alt="" /></Link>
                      </div>
                      <div className="col-xl-9 col-lg-9 col-md-6 col-6">
                         <div className="header-right f-right">
                            <div className="header-social-icons f-right d-none d-xl-block">
                               <ul>
-                                 <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-instagram"></i></a></li>
+                                 <li><a href="https://www.facebook.com/Dr.Tadeomorenoestetica/?locale=es_LA"><i className="fab fa-facebook-f"></i></a></li>
+                                 <li><a href="https://www.instagram.com/drtadeomoreno/"><i className="fab fa-instagram"></i></a></li>
                               </ul>
                            </div>
                         </div>
