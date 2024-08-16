@@ -11,12 +11,12 @@ const HomeCta = () => {
 							<div className="cta-text text-center">
 								<div className="section-title pos-rel mb-50">
 									<div className="section-text section-text-white pos-rel">
-										<h5>Stay healthy & strong to enjoy life</h5>
-										<h1 className="white-color">Trust Us To Be There To Help All & Make Things Well Again.</h1>
+										<h5>Tu transformación comienza aquí</h5>
+										<h1 className="white-color">Confía en Nosotros para Guiarte Hacia el Cambio que Deseas</h1>
 									</div>
 								</div>
 								<div className="section-button section-button-left">
-									<Link to="/appoinment" className="primary_btn btn-icon btn-icon-green ml-0"><span>+</span>get a consultant</Link>
+									<Link to="/appoinment" className="primary_btn btn-icon btn-icon-green ml-0"><span>+</span>Habla con un Especialista Hoy</Link>
 								</div>
 							</div>
 						</div>
