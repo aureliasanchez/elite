@@ -36,8 +36,8 @@ const SingleGalleryItem = ({ galleryItem, index, filterGalleryItems, column }) =
                             </div>
                         </div>
                         <div className="portfolio-caption">
-                            <h4>Awesome Doctor</h4>
-                            <p>Medical</p>
+                            <h4>Elite Esthetic</h4>
+                            <p>Belleza a tu medida</p>
                         </div>
                     </div>
                 </div>

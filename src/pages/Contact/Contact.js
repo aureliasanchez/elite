@@ -9,7 +9,7 @@ const Contact = () => {
     return (
         <>
             <HomeHeader/>
-            <CommonPageHeader title="Contact Us" subtitle="Contact" />
+            <CommonPageHeader title="Sobre Nosotros" subtitle="Contacto" />
             <ContactArea/>
             <ContactMap/>
             <Footer/>

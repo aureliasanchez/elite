@@ -9,7 +9,7 @@ const CommonPageHeader = ({title,subtitle}) => {
                <div className="row">
                   <div className="col-lg-9 col-md-9">
                      <div className="page-title">
-                        <p className="small-text pb-15">Nuestros Servicios Especializados</p>
+                        <p className="small-text pb-15">Servicios Especializados</p>
                         <h1>Transformamos tu belleza con excelencia médica.</h1>
                      </div>
                   </div>

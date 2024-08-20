@@ -6,20 +6,20 @@ const Footer = () => {
    return (
       <>
          <footer>
-                <div className="footer-top primary-bg pt-115 pb-90">
+                <div className="footer-top primary-bg pt-235 ">
                     <div className="container">
                         <div className="row">
                             <div className="col-xl-5 col-lg-6 col-md-8">
                                 <div className="footer-contact-info mb-30">
-                                    <div className="emmergency-call fix">
-                                        {/* <div className="emmergency-call-icon f-left">
+                                    {/* <div className="emmergency-call fix">
+                                        <div className="emmergency-call-icon f-left">
                                             <i className="fas fa-phone"></i>
-                                        </div> */}
-                                        {/* <div className="emmergency-call-text f-left">
+                                        </div>
+                                        <div className="emmergency-call-text f-left">
                                             <h6>Emergency number</h6>
                                             <span>202-555-0104</span>
-                                        </div> */}
-                                    </div>
+                                        </div>
+                                    </div> */}
                                     <div className="footer-logo mb-35">
                                         <Link to="/"><img src="img/logo/footer-logo.jpeg" alt=""/></Link>
                                     </div>
