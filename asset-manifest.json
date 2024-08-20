@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/elite/static/css/main.65e0c2e7.css",
-    "main.js": "/elite/static/js/main.96e0fd18.js",
+    "main.css": "/elite/static/css/main.80173e3a.css",
+    "main.js": "/elite/static/js/main.0b1092a5.js",
     "static/js/453.d41ffb46.chunk.js": "/elite/static/js/453.d41ffb46.chunk.js",
+    "static/media/slider-bg-2.jpg": "/elite/static/media/slider-bg-2.737fdea7521cb2d0385e.jpg",
+    "static/media/appointment.jpg": "/elite/static/media/appointment.36d1c474616355391264.jpg",
+    "static/media/slider-bg-1.jpg": "/elite/static/media/slider-bg-1.c34986987e920c4749a0.jpg",
+    "static/media/testimonials-bg.jpg": "/elite/static/media/testimonials-bg.a5910518725156895ca7.jpg",
+    "static/media/appointment-bg.jpg": "/elite/static/media/appointment-bg.8da6c9b6749871ed0662.jpg",
+    "static/media/page-bg.jpg": "/elite/static/media/page-bg.a00fa36f859e7174d9f8.jpg",
     "static/media/footer-map.png": "/elite/static/media/footer-map.d132e4df765ec0ab0b28.png",
     "static/media/map.png": "/elite/static/media/map.aec1e52a95e91f1038e2.png",
     "static/media/membership-bg.jpg": "/elite/static/media/membership-bg.328b7fc5bf9cc8372b09.jpg",
-    "static/media/slider-bg-2.jpg": "/elite/static/media/slider-bg-2.9cb7ee3ca68a7d010f60.jpg",
-    "static/media/slider-bg-1.jpg": "/elite/static/media/slider-bg-1.7b93de9e4bf8babfb6dc.jpg",
     "static/media/slider-bg-2in1.jpg": "/elite/static/media/slider-bg-2in1.7b93de9e4bf8babfb6dc.jpg",
-    "static/media/testimonials-bg.jpg": "/elite/static/media/testimonials-bg.b92a661f76e0600505d9.jpg",
     "static/media/home4__hero__bg.jpg": "/elite/static/media/home4__hero__bg.d52941d6178b4dea1dc6.jpg",
     "static/media/home5__hero__bg.jpg": "/elite/static/media/home5__hero__bg.d52941d6178b4dea1dc6.jpg",
     "static/media/slider-bg-3.jpg": "/elite/static/media/slider-bg-3.d52941d6178b4dea1dc6.jpg",
-    "static/media/appointment.jpg": "/elite/static/media/appointment.ead10e695be9fa05055c.jpg",
     "static/media/news-letter-bg.jpg": "/elite/static/media/news-letter-bg.6abd8613a5d90180d87e.jpg",
-    "static/media/appointment-bg.jpg": "/elite/static/media/appointment-bg.f7fe9677321650f84b9d.jpg",
-    "static/media/page-bg.jpg": "/elite/static/media/page-bg.19c1fbc541073bd8ef07.jpg",
     "static/media/hire3.jpg": "/elite/static/media/hire3.c49ea5e53d78a3336ba4.jpg",
     "static/media/hire4.jpg": "/elite/static/media/hire4.c49ea5e53d78a3336ba4.jpg",
     "static/media/hire__thumb.jpg": "/elite/static/media/hire__thumb.c49ea5e53d78a3336ba4.jpg",
@@ -28,12 +28,12 @@
     "static/media/slick.ttf": "/elite/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/elite/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/elite/index.html",
-    "main.65e0c2e7.css.map": "/elite/static/css/main.65e0c2e7.css.map",
-    "main.96e0fd18.js.map": "/elite/static/js/main.96e0fd18.js.map",
+    "main.80173e3a.css.map": "/elite/static/css/main.80173e3a.css.map",
+    "main.0b1092a5.js.map": "/elite/static/js/main.0b1092a5.js.map",
     "453.d41ffb46.chunk.js.map": "/elite/static/js/453.d41ffb46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65e0c2e7.css",
-    "static/js/main.96e0fd18.js"
+    "static/css/main.80173e3a.css",
+    "static/js/main.0b1092a5.js"
   ]
 }
