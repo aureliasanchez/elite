@@ -41,19 +41,19 @@ const PortfolioThreeColGallery = () => {
                             <div className="text-center">
                                 <div className="portfolio-filter mb-40">
                                     <button className={active === 'all' ? 'active' : null}
-                                        onClick={() => filterItems('all')} >Show all</button>
+                                        onClick={() => filterItems('all')} >Ver todo</button>
 
-                                    <button className={active === 'dental' ? 'active' : null}
-                                        onClick={() => filterItems('dental')} >Dental</button>
+                                    <button className={active === 'destacados' ? 'active' : null}
+                                        onClick={() => filterItems('destacados')} >Destacados</button>
 
-                                    <button className={active === 'care' ? 'active' : null}
-                                        onClick={() => filterItems('care')} >Care</button>
+                                    <button className={active === 'testimonios' ? 'active' : null}
+                                        onClick={() => filterItems('testimonios')} >Testimonios</button>
 
-                                    <button className={active === 'medical' ? 'active' : null}
-                                        onClick={() => filterItems('medical')} >Medical</button>
+                                    <button className={active === 'doctores' ? 'active' : null}
+                                        onClick={() => filterItems('doctores')} >Doctores</button>
 
-                                    <button className={active === 'surgery' ? 'active' : null}
-                                        onClick={() => filterItems('surgery')} >Surgery</button>
+                                    <button className={active === 'instalaciones' ? 'active' : null}
+                                        onClick={() => filterItems('instalaciones')} >Instalaciones</button>
                                 </div>
                             </div>
                         </div>

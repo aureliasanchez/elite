@@ -8,7 +8,7 @@ const PortfolioThreeCol = () => {
     return (
         <>
             <HomeHeader/>
-            <CommonPageHeader title="Portfolio 3 Column" subtitle="Portfolio" />
+            <CommonPageHeader title="Sobre Nosotros" subtitle="Portafolio" />
             <PortfolioThreeColGallery/>
             <Footer/>
         </>

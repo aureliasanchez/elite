@@ -9,7 +9,7 @@ const Appointment = () => {
     return (
         <>
             <HomeHeader/>
-            <CommonPageHeader title="Appointment" subtitle="Appointment" />
+            <CommonPageHeader title="Sobre Nosotros" subtitle="Citas" />
             <AppointmentArea/>
             <BookAppoinment/>
             <Footer/>

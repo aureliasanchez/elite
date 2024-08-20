@@ -10,31 +10,29 @@ const AboutAppoinment = () => {
                   <div className="col-lg-8">
                      <div className="appoinment-box white">
                         <div className="appoinment-content">
-                           <span className="small-text">Our Approch</span>
-                           <h1>If you are a patient seeking quality.</h1>
-                           <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                              dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                           <span className="small-text">Nuestro Enfoque</span>
+                           <h1>Compromiso con la Excelencia Estética</h1>
+                           <p>En Elite Esthetic, nos dedicamos a proporcionar una atención personalizada y de alta calidad, enfocándonos en los detalles que marcan la diferencia en los resultados. Nuestro enfoque se basa en combinar la experiencia médica con un entendimiento profundo de las necesidades estéticas de nuestros pacientes, garantizando tratamientos que realzan su belleza natural y mejoran su bienestar general.</p>
                            <ul className="professinals-list pt-30">
                               <li>
                                  <i className="fa fa-check"></i>
-                                 Ut enim ad minim veniam, quis nostrud exercit.
+                                 <b>Atención Personalizada:</b> Cada tratamiento es diseñado a la medida, considerando las necesidades y expectativas únicas de cada paciente.
                               </li>
                               <li>
                                  <i className="fa fa-check"></i>
-                                 Ut enim ad minim veniam, quis nostrud exercit.
+                                 <b>Tecnología Avanzada:</b> Utilizamos las técnicas y equipos más innovadores para asegurar los mejores resultados posibles.
                               </li>
                               <li>
                                  <i className="fa fa-check"></i>
-                                 Ut enim ad minim veniam, quis nostrud exercit.
+                                 <b>Seguridad y Ética:</b> Seguimos los más altos estándares de seguridad y ética en todos nuestros procedimientos.
                               </li>
                               <li>
                                  <i className="fa fa-check"></i>
-                                 Ut enim ad minim veniam, quis nostrud exercit.
+                                 <b>Resultados Naturales:</b> Nos enfocamos en realzar la belleza natural de cada paciente, asegurando que los resultados sean armoniosos y equilibrados.
                               </li>
                            </ul>
                         </div>
-                        <Link to="/contact" className="primary_btn mt-40">make appointment</Link>
+                        <Link to="/contact" className="primary_btn mt-40">Reserva tu cita ahora</Link>
                      </div>
                   </div>
                </div>

@@ -54,42 +54,42 @@ const HomeFiveServices = () => {
    const servicesData = [
       {
          id: 1,
-         serviceThumb: 'h4__services__thumb1.png',
+         serviceThumb: 'Rinoplastia.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Rinoplastia',
          description: 'Mejora la armonía facial y corrige problemas respiratorios con nuestra rinoplastia personalizada, utilizando técnicas avanzadas que garantizan resultados naturales..'
       },
       {
          id: 2,
-         serviceThumb: 'h4__services__thumb1.png',
+         serviceThumb: 'Lifting Facial.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Lifting Facial',
          description: 'Rejuvenece tu rostro eliminando los signos del envejecimiento con nuestro lifting facial, que tensa y revitaliza tu piel para un aspecto fresco y juvenil..'
       },
       {
          id: 3,
-         serviceThumb: 'h4__services__thumb1.png',
+         serviceThumb: 'Implante de Glúteos.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Implante de Glúteos',
          description: 'Aumenta y define tus glúteos con implantes de alta calidad, diseñados para realzar tu figura y proporcionar un contorno más firme y atractivo.'
       },
       {
          id: 4,
-         serviceThumb: 'h4__services__thumb1.png',
+         serviceThumb: 'Liposucción de Alta Definición.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Liposucción de Alta Definición',
          description: 'Moldea tu cuerpo con precisión, eliminando la grasa localizada para lograr un contorno esculpido que resalta tu forma natural.'
       },
       {
          id: 5,
-         serviceThumb: 'h4__services__thumb1.png',
+         serviceThumb: 'Blefaroplastia Superior e Inferior.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Blefaroplastia Superior e Inferior',
          description: 'Corrige los párpados caídos y elimina las bolsas debajo de los ojos para una mirada más joven y revitalizada, con resultados que realzan la expresión natural de tu rostro..'
       },
       {
          id: 6,
-         serviceThumb: 'h4__services__thumb1.png',
+         serviceThumb: 'Reducción Mamaria.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Reducción Mamaria',
          description: 'Alivia el malestar físico y mejora tu proporción corporal con nuestra reducción mamaria, ofreciendo resultados estéticos y funcionales que aumentan tu bienestar.'
