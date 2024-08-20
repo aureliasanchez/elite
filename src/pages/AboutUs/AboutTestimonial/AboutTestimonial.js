@@ -8,12 +8,12 @@ const AboutTestimonial = () => {
                <div className="row">
                   <div className="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2 col-md-10 offset-md-1">
                      <div className="section-title text-center pos-rel mb-40">
-                        <div className="section-icon">
+                        {/* <div className="section-icon">
                            <img className="section-back-icon" src="img/section/section-back-icon.png" alt=""/>
-                        </div>
+                        </div> */}
                         <div className="section-text pos-rel">
-                           <h5>Testimonials</h5>
-                           <h1>Our Clients Says About Us</h1>
+                           <h5>Testimonios</h5>
+                           <h1>Lo que los clientes dicen de nosotros</h1>
                         </div>
                         <div className="section-line pos-rel">
                            <img src="img/shape/section-title-line.png" alt=""/>
@@ -33,16 +33,13 @@ const AboutTestimonial = () => {
                                  <img src="img/testimonials/testi-quato-icon.png" alt=""/>
                               </div>
                               <div className="text-text-boxx">
-                                 <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed
-                                    ut
-                                    perspiciatis unde omnis iste natus error sit voluptatem. accusantium
-                                    doloremque laudantium, totam rem aperiam.</p>
+                                 <p>Mi experiencia en Elite Esthetic fue excepcional. Desde la consulta inicial hasta el seguimiento postoperatorio, me sentí escuchada y cuidada en todo momento. El resultado de mi procedimiento superó mis expectativas, y estoy agradecida por la profesionalidad y el compromiso del equipo.</p>
                               </div>
                               <span></span>
                            </div>
                            <div className="testi-author">
-                              <h2 className="testi-author-title">Rosalina D. Williamson</h2>
-                              <span className="testi-author-desination">founder, uithemes</span>
+                              <h2 className="testi-author-title">María S.</h2>
+                              <span className="testi-author-desination">Clienta de Elite Esthetic</span>
                            </div>
                            <div className="test-author-icon">
                               <img src="img/testimonials/testi-author-icon.png" alt=""/>

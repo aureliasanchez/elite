@@ -12,19 +12,14 @@ const ServicesTwoAbout = () => {
                                     <img className="section-back-icon back-icon-right" src="img/section/section-back-icon.png" alt=""/>
                                 </div>
                                 <div className="section-text section-text-small pos-rel">
-                                    <h5>health care facility</h5>
-                                    <h1>Would you rather stay at home than go into a health care facility?</h1>
+                                    <h5>Tu bienestar es nuestra prioridad.</h5>
+                                    <h1>Atención Integral en Cada Detalle</h1>
                                 </div>
                             </div>
                         </div>
                         <div className="col-xl-6 col-lg-6 col-md-12">
                             <div className="facalty-text mb-30">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                                    aliqua. Ut enim ad minim veniam, quis nost rud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                                    nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                                    qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde
-                                    omnis iste natus error sit voluptatem accusantium.</p>
+                                <p>En Elite Esthetic, nos preocupamos por ofrecerte una atención integral que se adapta a tus necesidades. Nuestro compromiso es brindarte un cuidado excepcional, asegurando que cada paso de tu tratamiento sea cómodo, seguro y efectivo, sin importar dónde te encuentres.</p>
                             </div>
                         </div>
                     </div>
