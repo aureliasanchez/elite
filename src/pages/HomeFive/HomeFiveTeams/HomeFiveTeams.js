@@ -25,6 +25,9 @@ const HomeFiveTeams = () => {
                </div>
                <div className="row">
                   <SingleTeam number={1} image="1" name="Dr. Jesús Tadeo Moreno Aranda" title="Cirugía Estética y Medicina Estética" />
+                  <SingleTeam number={2} image="1" name="Ejemplo" title="Especialidad" />
+                  <SingleTeam number={3} image="1" name="Ejemplo" title="Especialidad" />
+                  <SingleTeam number={4} image="1" name="Ejemplo" title="Especialidad" />
                   {/* <SingleTeam number={2} image="2" name="Hekim D. Rswana" title="dentist" />
                   <SingleTeam number={3} image="3" name="Tarana Halim" title="neurologist" />
                   <SingleTeam number={4} image="4" name="Kelian M. Habblu" title="operator" /> */}

@@ -8,7 +8,7 @@ const ServicesOne = () => {
    return (
       <>
          <HomeHeader/>
-         <CommonPageHeader title="Nuestros Servicios" subtitle="Servicios" />
+         <CommonPageHeader title="Nuestros Servicios" subtitle="Tratamientos" />
          <ServicesOneABout/>
          <Footer/>
       </>

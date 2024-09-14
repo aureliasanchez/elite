@@ -35,7 +35,6 @@ const HomeTwoHeroSection = () => {
                                     <div className="search-form">
                                        {/* <h3>Elite Esthetic</h3> */}
                                        <span className="sub-heading">Combinamos innovación y experiencia para ofrecerte los mejores tratamientos estéticos en Pachuca.</span>
-                                       
                                     </div>
                                     {/* <div className="row">
                                        <div className="col-xl-12">

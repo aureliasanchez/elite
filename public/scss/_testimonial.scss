@@ -4,7 +4,7 @@
      width: 80px;
      display: inline-block;
      border-radius: 50%;
-     background-color: rgb(225, 36, 84);
+     background-color: #b67831;
      box-shadow: 0px 16px 32px 0px rgba(225, 36, 84, 0.4);
      line-height: 80px;
      margin-bottom: 45px;
@@ -16,12 +16,12 @@
      display: inline-block;
 }
  .testi-quato-icon-green {
-     background-color: rgb(143, 181, 105);
+     background-color: #fcd2ae;
      box-shadow: 0px 16px 32px 0px rgba(143, 181, 105, 0.4);
      transition: .4s;
 }
  .testi-box-2:hover .testi-quato-icon-green {
-     background-color: rgb(225, 36, 84);
+     background-color: #b67831;
      box-shadow: 0px 16px 32px 0px rgba(225, 36, 84, 0.4);
 }
  .testi-content p {
@@ -35,7 +35,7 @@
 }
  .testi-author-desination {
      font-weight: 500;
-     color: #8fb569;
+     color: #fcd2ae;
      text-transform: uppercase;
      letter-spacing: 2px;
      display: block;
@@ -44,7 +44,7 @@
  .testi-content span {
      height: 70px;
      width: 2px;
-     background: #e12454;
+     background: #b67831;
      position: absolute;
      bottom: -91px;
      left: 0;
@@ -87,7 +87,7 @@
      margin-bottom: 14px;
 }
  .testi-rating-list ul li i {
-     color: #ffae00;
+     color: #b67831;
 }
 .home_two_testimonial_wrapper{
     padding: 0 15px;
