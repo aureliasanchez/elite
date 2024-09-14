@@ -42,7 +42,7 @@ const HomeAboutArea = () => {
                   <div className="col-xl-6 col-lg-12 col-md-11">
                      <div className="about-right-side pt-25 mb-30">
                         <div className="about-title mb-20">
-                           <h5 className="pink-color">Acerca de</h5>
+                           <h5 className="yellow-color">Acerca de</h5>
                            <h1>Tu Salud y Belleza en Manos de Expertos</h1>
                         </div>
                         <div className="about-text">
