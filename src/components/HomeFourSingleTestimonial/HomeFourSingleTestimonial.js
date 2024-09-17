@@ -23,7 +23,7 @@ const HomeFourSingleTestimonial = ({ image, name, description }) => {
                </div>
                <div className="h4testimonials--author__info">
                   <h5 className="f-600 theme-color">{name}</h5>
-                  <span className="f-500 pink-color">Testimonio</span>
+                  <span className="f-500 brown-color">Testimonio</span>
                </div>
             </div>
          </div>
