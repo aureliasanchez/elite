@@ -5,7 +5,7 @@ const HomeFooter = () => {
     return (
         <>
             <footer>
-                <div className="footer-top primary-bg pt-115 pb-90">
+                <div className="footer-widget primary-bg pt-115 pb-90">
                     <div className="container">
                         <div className="row">
                             <div className="col-xl-5 col-lg-6 col-md-8">
@@ -33,7 +33,7 @@ const HomeFooter = () => {
                                         </ul>
                                     </div>
                                 </div>
-                            </div>
+                           
                             <div className="col-xl-2 offset-xl-1 col-lg-3 col-md-4">
                                 <div className="footer-widget mb-30">
                                     <div className="footer-title">
@@ -67,6 +67,7 @@ const HomeFooter = () => {
                                     </div>
                                 </div>
                             </div>
+                        </div>
                         </div>
                     </div>
                 </div>
