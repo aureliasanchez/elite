@@ -30,7 +30,7 @@
     "web-vitals": "^2.1.4",
     "yarn": "^1.22.17"
   },
-  "homepage": "https://aureliasanchez.github.io/elite/",
+  "homepage": "https://eliteesthetic.networkingelite.com.mx/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
