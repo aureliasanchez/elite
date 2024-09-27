@@ -57,35 +57,35 @@ const HomeFiveServices = () => {
          serviceThumb: 'Rinoplastia.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Rinoplastia',
-         description: 'Mejora la armonía facial y corrige problemas respiratorios con nuestra rinoplastia personalizada, utilizando técnicas avanzadas que garantizan resultados naturales..'
+         description: 'Mejora la armonía facial y corrige problemas respiratorios con nuestra rinoplastia personalizada, utilizando técnicas avanzadas y seguras que garantizan resultados naturales y duraderos.'
       },
       {
          id: 2,
          serviceThumb: 'Lifting Facial.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Lifting Facial',
-         description: 'Rejuvenece tu rostro eliminando los signos del envejecimiento con nuestro lifting facial, que tensa y revitaliza tu piel para un aspecto fresco y juvenil..'
+         description: 'Rejuvenece tu rostro eliminando los signos del envejecimiento con nuestro lifting facial, que tensa y revitaliza tu piel para un aspecto fresco, radiante y profundamente juvenil, mejorando tu confianza y bienestar general.'
       },
       {
          id: 3,
          serviceThumb: 'Implante de Glúteos.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Implante de Glúteos',
-         description: 'Aumenta y define tus glúteos con implantes de alta calidad, diseñados para realzar tu figura y proporcionar un contorno más firme y atractivo.'
+         description: 'Aumenta y define tus glúteos con implantes de alta calidad, diseñados para realzar tu figura y proporcionar un contorno más firme y atractivo, logrando resultados estéticamente armoniosos y duraderos.'
       },
       {
          id: 4,
          serviceThumb: 'Liposucción de Alta Definición.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Liposucción de Alta Definición',
-         description: 'Moldea tu cuerpo con precisión, eliminando la grasa localizada para lograr un contorno esculpido que resalta tu forma natural.'
+         description: 'Moldea tu cuerpo con precisión, eliminando la grasa no deseada localizada en el abdomen para lograr un contorno esculpido que resalta tu forma natural.'
       },
       {
          id: 5,
          serviceThumb: 'Blefaroplastia Superior e Inferior.jpg',
          serviceTitle: 'Estética',
          serviceSubtitle: 'Blefaroplastia Superior e Inferior',
-         description: 'Corrige los párpados caídos y elimina las bolsas debajo de los ojos para una mirada más joven y revitalizada, con resultados que realzan la expresión natural de tu rostro..'
+         description: 'Corrige los párpados caídos y elimina las bolsas debajo de los ojos para una mirada más joven y revitalizada, con resultados que realzan la expresión natural de tu rostro.'
       },
       {
          id: 6,
@@ -125,14 +125,14 @@ const HomeFiveServices = () => {
                <div className="h4service-box white-bg mb-30">
                   <div className="service-thumb pos-rel mb-0">
                      <img src={`img/home4/services/${serviceThumb}`} alt="" />
-                     <Link className="h4services-tag green-bg white-color text-uppercase f-700"
+                     <Link className="h4services-tag black-bg white-color text-uppercase f-700"
                         to="/servicesDetails">{serviceTitle}</Link>
                   </div>
                   <div className="service-content h4services-content h6services-content">
-                     <h3><Link to="/servicesDetails">{serviceSubtitle}</Link></h3>
+                     <h3>{serviceSubtitle}</h3>
                      <p className="mb-20">{description}</p>
                      <div className="h5services-bottom">
-                        <span><i><img src="img/icon/h5manage__icon.png" alt="" /></i></span>
+                        
                      </div>
                   </div>
                </div>

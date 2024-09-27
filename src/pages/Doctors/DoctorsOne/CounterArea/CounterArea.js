@@ -10,20 +10,20 @@ const CounterArea = () => {
                   <SingleCount 
                      icon="premio" 
                      // counter="540" 
-                     title="Premio Nacional de Cirugía Estética (2021)" 
-                     description="Reconocimiento por su contribución en el desarrollo de técnicas avanzadas de lifting facial." 
+                     title="Ejemplo 1" 
+                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." 
                   />
                   <SingleCount 
                      icon="certificado" 
                      // counter="899" 
-                     title="Certificación Internacional en Medicina Estética" 
-                     description="Avalado por la Asociación Internacional de Cirujanos Estéticos (AICAE)." 
+                     title="Ejemplo 2" 
+                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." 
                   />
                   <SingleCount 
                      icon="revista" 
                      // counter="100" 
-                     title="Publicación en Revista Médica (2020)" 
-                     description="Autor de varios artículos sobre las últimas tendencias en rinoplastia y liposucción." 
+                     title="Ejemplo 3" 
+                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." 
                   />
                </div>
             </div>

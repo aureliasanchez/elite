@@ -22,14 +22,14 @@
      width: 50px;
      background: #ffffff;
      line-height: 50px;
-     color: #a39fb4;
+     color: #b4ae9f;
      margin: 0 8px;
      opacity: 0;
      visibility: hidden;
      border-radius: 50%;
 }
  .product-action a:hover {
-     background: #E12454;
+     background: #b67831;
      color: #ffffff;
 }
  .pro-cat {
@@ -37,7 +37,7 @@
      display: block;
 }
  .pro-cat a {
-     color: #8fb569;
+     color: #fcd2ae;
      font-size: 14px;
      letter-spacing: 2px;
      font-weight: 500;
@@ -50,16 +50,16 @@
      font-size: 24px;
 }
  .pro-title a:hover {
-     color: #E12454;
+     color: #b67831;
 }
  .price span {
-     color: #8e84b8;
+     color: #b89d84;
      font-size: 14px;
      display: inline-block;
      margin: 0 5px;
 }
  .price span.old-price {
-     color: #b7afd5;
+     color: #d5ccaf;
      text-decoration: line-through;
 }
  .product-showing p {
@@ -157,7 +157,7 @@
 }
  .shop-tab ul li a.active {
      color: white;
-     background: #8fb569;
+     background: #fcd2ae;
 }
  .shop-thumb-tab {
      width: 160px;
@@ -218,7 +218,7 @@
     }
 }
  .details-price span {
-     color: #8fb569;
+     color: #fcd2ae;
      font-size: 20px;
      font-weight: 400;
      margin-left: 0;
@@ -240,7 +240,7 @@
      letter-spacing: 2px;
 }
  .product-cat a:hover {
-     color: #8fb569;
+     color: #fcd2ae;
 }
  .product-social a {
      margin-right: 10px;
@@ -260,7 +260,7 @@
     }
 }
  .product-social a:hover {
-     background: #8fb569;
+     background: #fcd2ae;
      color: #ffffff;
 }
  .plus-minus {
@@ -279,7 +279,7 @@
     }
 }
  .action-btn {
-     background: #8fb569;
+     background: #fcd2ae;
      padding: 20px 25px;
      border: none;
      margin-left: 15px;
@@ -287,7 +287,7 @@
      display: inline-block;
 }
  .action-btn:hover {
-     background: #e12454;
+     background: #b67831;
      color: #ffffff;
 }
  .product-action-list {
@@ -360,8 +360,8 @@
      letter-spacing: 1px;
 }
  .shop-cat a:hover {
-     background: #8fb569;
-     border-color: #8fb569;
+     background: #fcd2ae;
+     border-color: #fcd2ae;
 }
  .shop-cat a:hover i {
      color: #ffffff;
@@ -378,7 +378,7 @@
  .bakix-details-tab ul li a {
      font-size: 16px;
      font-weight: 500;
-     color: #8c8bb5;
+     color: #b5a38b;
      letter-spacing: 2px;
      padding: 0;
      text-transform: capitalize;
@@ -400,7 +400,7 @@
      height: 2px;
      width: 100%;
      content: "";
-     background: #e12454 ;
+     background: #b67831 ;
      transition: .3s;
 }
  @media (max-width: 767px) {

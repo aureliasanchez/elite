@@ -21,11 +21,11 @@ const HomeTwoHeroSection = () => {
                               <div className="hero-text hero-text-2 pt-35">
                                  <div className="hero-slider-caption hero-slider-caption-2">
                                     {/* <h5 className="white-color">En Elite Esthetic, combinamos innovación y experiencia para ofrecerte los mejores tratamientos estéticos en Pachuca. </h5> */}
-                                    <h1 className="white-color" >Transforma Tu Belleza, Renueva Tu Confianza</h1>
+                                    <h1 className="white-color" >Renueva Tu Confianza</h1>
                                  </div>
                                  <div className="hero-slider-btn">
                                     <Link to="/services" className="primary_btn btn-icon btn-icon-blue ml-0"><span>+</span>Descubre Nuestros Servicios</Link>
-                                    <button onClick={() => setIsOpen(true)} className="play-btn popup-video"><i className="fas fa-play"></i></button>
+                                    {/* <button onClick={() => setIsOpen(true)} className="play-btn popup-video"><i className="fas fa-play"></i></button> */}
                                  </div>
                               </div>
                            </div>
@@ -33,9 +33,8 @@ const HomeTwoHeroSection = () => {
                               <div className="slider-right-2">
                                  <div className="caregive-box">
                                     <div className="search-form">
-                                       <h3>Elite Esthetic</h3>
+                                       {/* <h3>Elite Esthetic</h3> */}
                                        <span className="sub-heading">Combinamos innovación y experiencia para ofrecerte los mejores tratamientos estéticos en Pachuca.</span>
-                                       
                                     </div>
                                     {/* <div className="row">
                                        <div className="col-xl-12">

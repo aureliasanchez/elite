@@ -24,7 +24,7 @@ const Footer = () => {
                                         <Link to="/"><img src="img/logo/footer-logo.jpeg" alt=""/></Link>
                                     </div>
                                     <div className="footer-contact-content mb-25">
-                                        <p>Nos especializamos en ofrecer tratamientos personalizados que mejoran la estética facial y corporal de nuestros pacientes, utilizando tecnología de vanguardia y un enfoque ético y profesional. Nuestro compromiso es ayudar a nuestros pacientes a alcanzar sus metas estéticas con seguridad y confianza.</p>
+                                        <p> Nuestro compromiso es ayudar a nuestros pacientes a alcanzar sus metas estéticas con seguridad y confianza.</p>
                                     </div>
                                     <div className="footer-emailing">
                                         <ul>
@@ -43,7 +43,7 @@ const Footer = () => {
                                     <div className="footer-menu">
                                         <ul>
                                             <li><Link to="/servicesDetails">Políticas de Privacidad</Link></li>
-                                            <li><Link to="/servicesDetails">Términos de Uso</Link></li>
+                                            {/* <li><Link to="/servicesDetails">Términos de Uso</Link></li> */}
                                             <li><Link to="/servicesDetails">Aviso de Privacidad</Link></li>
                                             {/* <li><Link to="/servicesDetails">Optician</Link></li>
                                             <li><Link to="/servicesDetails">Pediatrics</Link></li>
