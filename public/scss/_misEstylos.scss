@@ -1,0 +1,12 @@
+.reacomodoBTN{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3% auto;
+}
+
+@media screen and (max-width: 1199px) {
+    .reacomodoBTN {
+        display: none;
+    }
+}

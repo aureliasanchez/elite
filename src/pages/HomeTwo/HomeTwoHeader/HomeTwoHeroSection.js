@@ -13,7 +13,7 @@ const HomeTwoHeroSection = () => {
          <section className="hero-area">
             <div className="hero-slider hero_two_slider">
                <div className="slider-active">
-                  <div className="single-slider slider-height slider-height-2 d-flex align-items-center"
+                  <div className="single-slider slider-height slider-height-2 d-flex align-items-center maxwidth"
                   data-background="img/slider/slider-bg-2.jpg">
                      <div className="container">
                         <div className="row align-items-center">
