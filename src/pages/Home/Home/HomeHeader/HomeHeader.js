@@ -75,9 +75,6 @@ const HomeHeader = () => {
                             <Link to="/appoinment">Citas</Link>
                           </li>
                           <li>
-                            <Link to="/portfolioThreeColumn">Portafolio</Link>
-                          </li>
-                          <li>
                             <Link to="/contact">Contacto</Link>
                           </li>
                         </ul>
