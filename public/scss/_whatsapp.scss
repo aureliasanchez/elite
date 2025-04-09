@@ -27,3 +27,18 @@
 .fa-whatsapp{
     padding-left: 5%;
 }
+
+@media screen and (max-width: 574px) {
+    .whatsapp-float {
+        width: 80px;
+        height: 80px;
+    }
+
+    .whatsapp-float i {
+        font-size: 50px;
+    }
+
+    .fa-whatsapp{
+        padding-bottom: 5%;
+    }
+}

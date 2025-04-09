@@ -1,0 +1,23 @@
+.caregive-box {
+    padding: 24px 60px;
+}
+
+.search-form .sub-heading {
+    margin-bottom: 0px;
+}
+
+.offcanvas-end {
+    width: 100%;
+}
+
+@media screen and (max-width: 574px) {
+    .btn-icon-blue {
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+
+    .btn-icon {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}

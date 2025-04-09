@@ -11,8 +11,18 @@
     align-items: center;
 }
 
+.siseRem12{
+    font-size: 1.2rem !important;
+}
+
 @media screen and (max-width: 1199px) {
     .reacomodoBTN {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 574px) {
+    .movileDisapare{
         display: none;
     }
 }

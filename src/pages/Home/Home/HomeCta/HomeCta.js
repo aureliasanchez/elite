@@ -16,7 +16,7 @@ const HomeCta = () => {
 									</div>
 								</div>
 								<div className="section-button section-button-left">
-									<Link to="/appoinment" className="primary_btn btn-icon btn-icon-green ml-0"><span>+</span>Habla con un Especialista Hoy</Link>
+									<Link to="/appoinment" className="primary_btn btn-icon btn-icon-green ml-0"><span className='movileDisapare'>+</span>Habla con un Especialista Hoy</Link>
 								</div>
 							</div>
 						</div>

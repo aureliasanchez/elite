@@ -15,7 +15,7 @@ const HomeFact = () => {
                         </div>
                      </div>
                      <div className="section-button section-button-left mb-30">
-                        <Link to="/appoinment" className="primary_btn btn-icon ml-0"><span>+</span>Reserva Tu Cita Ahora</Link>
+                        <Link to="/appoinment" className="primary_btn btn-icon ml-0"><span className='movileDisapare'>+</span>Reserva Tu Cita Ahora</Link>
                      </div>
                   </div>
                   <div className="col-lg-6 col-lg-6 col-md-8">

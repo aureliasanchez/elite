@@ -56,7 +56,7 @@ const HomeAboutArea = () => {
                            </ul>
                         </div>
                         <div className="button-area">
-                           <Link to="/services" className="primary_btn btn-icon ml-0"><span>+</span>Conoce Todos Nuestros Servicios</Link>
+                           <Link to="/services" className="primary_btn btn-icon ml-0"><span className='movileDisapare'>+</span>Conoce Nuestros Servicios</Link>
                         </div>
                      </div>
                   </div>

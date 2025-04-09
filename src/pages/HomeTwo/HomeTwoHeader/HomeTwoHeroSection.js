@@ -24,7 +24,7 @@ const HomeTwoHeroSection = () => {
                                     <h1 className="white-color" >Renueva Tu Confianza</h1>
                                  </div>
                                  <div className="hero-slider-btn">
-                                    <Link to="/services" className="primary_btn btn-icon btn-icon-blue ml-0"><span>+</span>Descubre Nuestros Servicios</Link>
+                                    <Link to="/services" className="primary_btn btn-icon btn-icon-blue ml-0"><span className='movileDisapare'>+</span>Descubre Nuestros Servicios</Link>
                                     {/* <button onClick={() => setIsOpen(true)} className="play-btn popup-video"><i className="fas fa-play"></i></button> */}
                                  </div>
                               </div>
@@ -34,7 +34,7 @@ const HomeTwoHeroSection = () => {
                                  <div className="caregive-box">
                                     <div className="search-form">
                                        {/* <h3>Elite Esthetic</h3> */}
-                                       <span className="sub-heading">Combinamos innovación y experiencia para ofrecerte los mejores tratamientos estéticos en Pachuca.</span>
+                                       <span className="sub-heading siseRem12">Innovación y experiencia en tratamientos estéticos en Pachuca.</span>
                                     </div>
                                     {/* <div className="row">
                                        <div className="col-xl-12">
